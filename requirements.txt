@@ -1,2 +1,2 @@
 tsai == 0.2.23
-streamlit==1.2
+streamlit==1.1
