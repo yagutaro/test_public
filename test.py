@@ -1,4 +1,2 @@
-#import tsai
-import protoc
-protoc --version
+import tsai
 
