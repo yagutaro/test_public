@@ -1,1 +1,3 @@
-import tsai
+#import tsai
+protoc --version
+
